@@ -1,4 +1,4 @@
-# Hi there, I'm Aryan Rianto 👋
+# Hi there, I'm Aryan Rianto 👋 [Portfolio](https://porto-aryan.vercel.app/)
 ## About me:
 - ✉️ I’m currently an Informatics Engineering student at Widyatama University
 - 👯 I’m looking to collaborate in Data Science, Database Management, and Business Intelligence
